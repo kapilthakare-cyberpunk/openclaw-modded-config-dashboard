@@ -8,7 +8,7 @@
 
 ### Development
 ```bash
-cd /Users/kapil-homeserver/pnz-portfolio
+cd /Users/kapil-homeserver/openclaw-modded-config-dashboard
 npm run dev
 ```
 
@@ -25,7 +25,7 @@ npm start
 ## 📁 Project Structure
 
 ```
-pnz-portfolio/
+openclaw-modded-config-dashboard/
 ├── src/
 │   └── app/
 │       ├── layout.tsx      # Root layout
@@ -72,7 +72,7 @@ pnz-portfolio/
 Already installed! But if you need to reinstall:
 
 ```bash
-cd pnz-portfolio
+cd openclaw-modded-config-dashboard
 npm install
 ```
 
@@ -98,13 +98,13 @@ npm i -g vercel
 vercel
 
 # Follow prompts
-# Site will be live at: pnz-portfolio-xxx.vercel.app
+# Site will be live at: openclaw-modded-config-dashboard-xxx.vercel.app
 ```
 
 ### Option 2: Vercel Dashboard
 1. Go to: https://vercel.com/new
 2. Import from GitHub
-3. Select `pnz-portfolio` repository
+3. Select `openclaw-modded-config-dashboard` repository
 4. Click Deploy
 5. Done! Site is live
 
